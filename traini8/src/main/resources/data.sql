@@ -1,0 +1,3 @@
+INSERT INTO training_center (center_name, center_code, address_detailed, address_city, address_state, address_pincode, student_capacity, courses_offered, created_on, contact_email, contact_phone) VALUES
+('Traini8 Center 1', 'TC001', '123 Main St', 'CityA', 'StateA', '123456', 100, '{"Course1", "Course2"}', 1690000000000, 'contact@traini8.com', '1234567890'),
+('Traini8 Center 2', 'TC002', '456 Elm St', 'CityB', 'StateB', '654321', 200, '{"Course3", "Course4"}', 1690000000000, 'info@traini8.com', '0987654321');
